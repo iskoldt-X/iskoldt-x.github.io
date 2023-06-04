@@ -1,0 +1,34 @@
+
+
+[   
+      
+  {
+  "tag" : "artificial intelligence",
+  "posts" : [
+      
+      "./hello-world.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "machine learning",
+  "posts" : [
+      
+      "./hello-world.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "neural networks",
+  "posts" : [
+      
+      "./hello-world.html"
+      
+    ]
+  } 
+    
+]
