@@ -18,7 +18,7 @@ logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG f
 # visit (session). Only the dark mode setting is "manual",
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
-night_mode: "auto"
+night_mode: "off"
 
 logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
@@ -29,11 +29,11 @@ author-pic: Myself_Neon_grey.jpg
 about-author: Studying bioinformatics.
 
 # Contact links
-email: hange@duck.com # Add your Email address
+email: k4575kmv@duck.com # Add your Email address
 phone: # Add your Phone number
 website: https://iskoldt-x.github.io # Add your website
-linkedin: amaynez # Add your Linkedin handle
-github: amaynez # Add your Github handle
+linkedin: binghan-xiao-903007248 # Add your Linkedin handle
+github: iskoldt-X # Add your Github handle
 #twitter: '@MvmThe' # Add your Twitter handle
 #bandcamp: armandomaynez # Add your Bandcamp username
 #stackoverflow: stackoverflow # Add your stackoverflow account
@@ -46,7 +46,7 @@ github: amaynez # Add your Github handle
 #fbadmin: ar.maybach
 
 # Paginate
-paginate: 5
+paginate: 6
 paginate_path: 'page:num'
 words_per_minute: 200
 
@@ -74,7 +74,7 @@ compress_html:
   startings: [html, head, body]
 
 # Outputting
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Copenhagen# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 category_archive:
   type: liquid
