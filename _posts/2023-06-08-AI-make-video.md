@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Using AI to Generate Video"
 date: 2023-06-08
-img: posts/20230608/heygen.webp
+img: posts/20230608/heygen.jpg
 tags: [blog, tech]
 category: blog
 author: iskold
@@ -14,6 +14,8 @@ description: "Using AI to Generate Talking Video, the world is insane."
 # Using AI to Generate Video
 
 Today's date is June 8, 2023. As technology continues to evolve, so too do the tools that we use for content creation. One such tool that's been making waves is HeyGen, a plugin for ChatGPT that enables users to generate videos using artificial intelligence (AI). This post will talk about my experiences with HeyGen, and how I used it to generate a perfect introduction video for Silo in both English and Chinese.
+
+<img src="./assets/img/posts/20230608/heygen.webp" alt="The AI Speaker from HeyGen"/><small>The AI Speaker from HeyGen</small>
 
 ## What is HeyGen?
 
